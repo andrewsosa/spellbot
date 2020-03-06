@@ -1,0 +1,27 @@
+{
+  "_id": "5e5fe5540b1bb138c5beb07f",
+  "index": "misty-step",
+  "name": "Misty Step",
+  "desc": [
+    "Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see."
+  ],
+  "page": "phb 260",
+  "range": "Self",
+  "components": ["V"],
+  "ritual": false,
+  "duration": "Instantaneous",
+  "concentration": false,
+  "casting_time": "1 bonus action",
+  "level": 2,
+  "school": { "name": "Conjuration", "url": "/api/magic-schools/conjuration" },
+  "classes": [
+    { "name": "Sorcerer", "url": "/api/classes/sorcerer" },
+    { "name": "Warlock", "url": "/api/classes/warlock" },
+    { "name": "Wizard", "url": "/api/classes/wizard" }
+  ],
+  "subclasses": [
+    { "name": "Lore", "url": "/api/subclasses/lore" },
+    { "name": "Land", "url": "/api/subclasses/land" }
+  ],
+  "url": "/api/spells/misty-step"
+}
